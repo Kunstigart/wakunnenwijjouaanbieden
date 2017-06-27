@@ -102,7 +102,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "collapsed": true,
             "hideButtons": false
@@ -527,7 +527,12 @@
           },
           "text1": "<strong>Adres</strong><br>Atelier Kunstig Art<br>Hitteschild 2-4<br>3402 EA &nbsp;IJsselstein",
           "text2": "<strong>Contact</strong><br>Sylvia te Braake<br>Email: &nbsp;info@kunstigart.nl<br>\nPhone: 06-291 35 690<br><br>",
-          "text3": "<br><br>"
+          "text3": "Social Media<br><br>Facebook<br>LinkedIn",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          }
         }
       ]
     },
@@ -606,7 +611,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "collapsed": true,
             "hideButtons": false
@@ -1113,7 +1118,12 @@
           },
           "text1": "<strong>Adres</strong><br>Atelier Kunstig Art<br>Hitteschild 2-4<br>3402 EA &nbsp;IJsselstein",
           "text2": "<strong>Contact</strong><br>Sylvia te Braake<br>Email: &nbsp;info@kunstigart.nl<br>\nPhone: 06-291 35 690<br><br>",
-          "text3": "<br><br>"
+          "text3": "Social Media<br><br>Facebook<br>LinkedIn",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          }
         }
       ]
     },
@@ -1192,7 +1202,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "collapsed": true,
             "hideButtons": false
@@ -1806,7 +1816,12 @@
           },
           "text1": "<strong>Adres</strong><br>Atelier Kunstig Art<br>Hitteschild 2-4<br>3402 EA &nbsp;IJsselstein",
           "text2": "<strong>Contact</strong><br>Sylvia te Braake<br>Email: &nbsp;info@kunstigart.nl<br>\nPhone: 06-291 35 690<br><br>",
-          "text3": "<br><br>"
+          "text3": "Social Media<br><br>Facebook<br>LinkedIn",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          }
         }
       ]
     },
@@ -1885,7 +1900,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "collapsed": true,
             "hideButtons": false
@@ -1893,10 +1908,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/facebook-banner-collage-128x47.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2600,7 +2617,12 @@
           },
           "text1": "<strong>Adres</strong><br>Atelier Kunstig Art<br>Hitteschild 2-4<br>3402 EA &nbsp;IJsselstein",
           "text2": "<strong>Contact</strong><br>Sylvia te Braake<br>Email: &nbsp;info@kunstigart.nl<br>\nPhone: 06-291 35 690<br><br>",
-          "text3": "<br><br>"
+          "text3": "Social Media<br><br>Facebook<br>LinkedIn",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          }
         }
       ]
     }
