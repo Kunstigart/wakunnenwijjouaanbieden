@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Wat kunnen wij jou aanbieden",
+    "currentPage": "8 redenen waarom.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -238,7 +238,7 @@
             }
           },
           "title": "Heb je thuis ook zo weinig ruimte om &nbsp;zelf te schilderen?",
-          "text": "Het is voor velen heel moeilijk om een eigen atelier ruimte thuis te creëren. &nbsp;Een hele kamer alleen voor je hobby is niet voor veel mensen weggelegd. In een hoekje van de woonkam een plekje maken voor je ezel is ook niet altijd een gegarandeerd succes. Zekers als je een beetje enthousiast je wilt uitleven. Verf op de bank krijgen is niet echt een optie, laat staan spetters op de TV ( ach blijft dan echt een kleuren TV!), maar dan hebben we het nog geeneens over de vloer gehad!<br> <br>Dan maar je beeldscherm &nbsp;en spullen &nbsp;op je bureau naar achteren schuiven en een kleed erover heen gooien en dan maar schilderen. <br>Is dit echt een fijne oplossing voor je?<br>&nbsp;",
+          "text": "Het is voor velen heel moeilijk om een eigen atelier ruimte thuis te creëren. &nbsp;Een hele kamer alleen voor je hobby is niet voor veel mensen weggelegd. In een hoekje van de woonkamer een plekje maken voor je ezel is ook niet altijd een gegarandeerd succes. Zeker als je een beetje enthousiast je wilt uitleven. Verf op de bank krijgen is niet echt een optie, laat staan spetters op de TV ( ach is dan echt een kleuren TV!), maar dan hebben we het nog geeneens over de vloer gehad!<br> <br>Dan maar je beeldscherm &nbsp;en spullen &nbsp;op je bureau naar achteren schuiven en een kleed erover heen gooien en dan maar schilderen. <br>Is dit echt een fijne oplossing voor je?<br>&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/2243-2/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Gratis e-boek \"8 redenen waarom intuïtief schilderen goed is voor jou!\"</a>"
         },
         {
@@ -360,7 +360,7 @@
             }
           },
           "title": "Door zelf te ervaren hoe het is om bij <br>Atelier Kunstig &nbsp;Art<br>&nbsp;te schilderen",
-          "text": "maar voor je zover bent wil je misschien eerst meer weten over intuïtief schilderen en wat dat voor jou kan betekenen. <br><br>Speciaal voor jou is er een gratis e-boek gemaakt <br>\"8 redenen waarom &nbsp;intuïtief schilderen goed is voor jou.\" <br>Straks kom je de informatie tegen hoe je het kunt downloaden. <br><br>Intuïtief schilderen is heel bijzonder en is de chore business van Atelier Kunstig Art. Ondanks dat zijn er ook mensen die het heerlijk vinden om hun favoriete plaatje na te schilderen. Dat kan ook. Dat zie je hiernaast. Het gaat vooral om dat jij je creatief kan uiten en geniet van wat je aan het maken bent. Jij zal het toch maken met jouw kleuren en op jouw manier. &nbsp;&nbsp;",
+          "text": "maar voor je zover bent wil je misschien eerst meer weten over intuïtief schilderen en wat dat voor jou kan betekenen. <br><br>Speciaal voor jou is er een gratis e-boek gemaakt <br>\"8 redenen waarom &nbsp;intuïtief schilderen goed is voor jou.\" <br>Straks kom je de informatie tegen hoe je het kunt downloaden. <br><br>Intuïtief schilderen is heel bijzonder en is de chore business van Atelier Kunstig Art. Ondanks dat zijn er ook mensen die het heerlijk vinden om hun favoriete plaatje na te schilderen. Dat kan ook. Dat zie je hiernaast. Het gaat vooral om dat jij je creatief kan uiten en geniet van wat je aan het maken bent. Jij zal het toch maken met jouw kleuren en op jouw manier.<br> <br>We gaan voor <b>vrijheid is blijheid!</b><br><b>Jij kiest wat jij fijn vind om te maken en hoe je het wilt doen!<br></b> &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/2243-2/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Gratis e-boek \"8 redenen waarom intuïtief schilderen goed is voor jou!\"</a>"
         },
         {
@@ -496,6 +496,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "contacts1-k",
           "_params": {
             "paddingTop": 3,
@@ -527,12 +532,7 @@
           },
           "text1": "<strong>Adres</strong><br>Atelier Kunstig Art<br>Hitteschild 2-4<br>3402 EA &nbsp;IJsselstein",
           "text2": "<strong>Contact</strong><br>Sylvia te Braake<br>Email: &nbsp;info@kunstigart.nl<br>\nPhone: 06-291 35 690<br><br>",
-          "text3": "Social Media<br><br>Facebook<br>LinkedIn",
-          "_styles": {
-            "P": {
-              "color": "#efefef"
-            }
-          }
+          "text3": "Social Media<br><br>Facebook<br>LinkedIn"
         }
       ]
     },
@@ -1087,6 +1087,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "contacts1-14",
           "_params": {
             "paddingTop": 3,
@@ -1118,12 +1123,7 @@
           },
           "text1": "<strong>Adres</strong><br>Atelier Kunstig Art<br>Hitteschild 2-4<br>3402 EA &nbsp;IJsselstein",
           "text2": "<strong>Contact</strong><br>Sylvia te Braake<br>Email: &nbsp;info@kunstigart.nl<br>\nPhone: 06-291 35 690<br><br>",
-          "text3": "Social Media<br><br>Facebook<br>LinkedIn",
-          "_styles": {
-            "P": {
-              "color": "#efefef"
-            }
-          }
+          "text3": "Social Media<br><br>Facebook<br>LinkedIn"
         }
       ]
     },
@@ -1785,6 +1785,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "contacts1-1l",
           "_params": {
             "paddingTop": 3,
@@ -1816,12 +1821,7 @@
           },
           "text1": "<strong>Adres</strong><br>Atelier Kunstig Art<br>Hitteschild 2-4<br>3402 EA &nbsp;IJsselstein",
           "text2": "<strong>Contact</strong><br>Sylvia te Braake<br>Email: &nbsp;info@kunstigart.nl<br>\nPhone: 06-291 35 690<br><br>",
-          "text3": "Social Media<br><br>Facebook<br>LinkedIn",
-          "_styles": {
-            "P": {
-              "color": "#efefef"
-            }
-          }
+          "text3": "Social Media<br><br>Facebook<br>LinkedIn"
         }
       ]
     },
@@ -2008,6 +2008,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#2b0680"
+            },
+            "P": {
+              "color": "#2b0680"
+            }
+          },
           "_anchor": "msg-box5-26",
           "_params": {
             "imageSize": 50,
@@ -2054,15 +2062,7 @@
           },
           "title": "Maar eerst dit: <br>wie zit achter&nbsp;<br>Atelier Kunstig Art?",
           "text": "Atelier Kunstig Art is opgericht door Sylvia te Braake in 2004. Zij wilde graag het plezier van intuïtief schilderen delen met anderen. Zij had ook ontdekt door een iets andere benadering te nemen dat het erg heilzaam werkte voor je. Met heel veel passie is zij begonnen met haar atelier. Gelukkig wist zij toen niet wat er allemaal zou gebeuren in de komende jaren.<br><br>Voor we verder gaan met wat het atelier jou kan aanbieden , is het misschien fijn om te weten wie Sylvia is. Klik op onderstaande button om haar verhaal te lezen. <br><br>Hopelijk zal het duidelijk worden dat zij haar hart blijft volgen en niets haar weerhoudt om haar droom te &nbsp;verwezenlijken. <br><br><i>\"Het leven is een groot feest<br>maar je zal zelf de slingers op moeten hangen!&nbsp;</i>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Wie is Sylvia te Braake?</a>",
-          "_styles": {
-            "H3": {
-              "color": "#2b0680"
-            },
-            "P": {
-              "color": "#2b0680"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Wie is Sylvia te Braake?</a>"
         },
         {
           "_tags": [
@@ -2586,6 +2586,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "contacts1-21",
           "_params": {
             "paddingTop": 3,
@@ -2617,12 +2622,7 @@
           },
           "text1": "<strong>Adres</strong><br>Atelier Kunstig Art<br>Hitteschild 2-4<br>3402 EA &nbsp;IJsselstein",
           "text2": "<strong>Contact</strong><br>Sylvia te Braake<br>Email: &nbsp;info@kunstigart.nl<br>\nPhone: 06-291 35 690<br><br>",
-          "text3": "Social Media<br><br>Facebook<br>LinkedIn",
-          "_styles": {
-            "P": {
-              "color": "#efefef"
-            }
-          }
+          "text3": "Social Media<br><br>Facebook<br>LinkedIn"
         }
       ]
     }
