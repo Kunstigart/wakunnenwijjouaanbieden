@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "8 redenen waarom.html",
+    "currentPage": "Wat zeggen ze",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -621,10 +621,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/facebook-banner-collage-128x47.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1212,10 +1214,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/facebook-banner-collage-128x47.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1340,7 +1344,7 @@
             }
           },
           "title": "Waarom juist bij Atelier Kunstig Art schilderen?<br><br>",
-          "text": "Iedereen heeft zo zijn/haar eigen redenen. Het is soms heel divers. Wat iedereen in ieder geval gemeen heeft is:<br>&nbsp;ze willen allemaal leren schilderen. <br>Ze willen allemaal ervaren hoe het is om creatief bezig te zijn. <br>Ze hebben allemaal behoefte om even tijd voor zichzelf te hebben.&nbsp;<br>Ze willen graag even uit het hoofd zijn.<br>Ontspanning is ook een belangrijke factor.<br><br>Onze maatschappij wordt steeds drukker en intenser. Teveel prikkels met alle media bronnen van nu, denk even aan hoeveel informatie je op een dag binnen krijgt via TV, radio, Facebook, Instagram, je mobile met alle handige apps en ga zo maar door.&nbsp;<br>&nbsp;",
+          "text": "Iedereen heeft zo zijn/haar eigen redenen. Het is soms heel divers. Wat iedereen in ieder geval gemeen heeft is:<br>&nbsp;ze willen allemaal leren schilderen. <br>Ze willen allemaal ervaren hoe het is om creatief bezig te zijn. <br>Ze hebben allemaal behoefte om even tijd voor zichzelf te hebben.&nbsp;<br>Ze willen graag even uit het hoofd zijn.<br>Ontspanning is ook een belangrijke factor.<br>Het moet niet iets zweverigs zijn. Gewoon met je twee voeten op de grond blijven staan.<br><br>Onze maatschappij wordt steeds drukker en intenser. Teveel prikkels met alle media bronnen van nu, denk even aan hoeveel informatie je op een dag binnen krijgt via TV, radio, Facebook, Instagram, je mobile met alle handige apps en ga zo maar door.&nbsp;<br>&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Wie is Sylvia te Braake?</a>"
         },
         {
